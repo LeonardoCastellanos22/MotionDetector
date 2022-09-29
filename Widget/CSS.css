@@ -1,0 +1,90 @@
+.title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    position: relative;
+    width: 500px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  
+  .paragraph{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    width: 500px;
+    height: 80px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+  
+  
+    
+  }
+  
+  .button {
+    margin-left: auto;
+    margin-right: auto;  
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    width: 500px;
+    height: 60px;
+    transition: all 0.5s;
+    cursor: pointer;
+    position: relative;
+  
+    
+  }
+  
+  .buttonDesign{
+    width: 500px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  
+  
+  .dropdown{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    position: relative;
+    width: 500px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: italic;
+  }
+  
+  .selector{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    border: 1px solid;
+    border-radius: 5px;
+  
+    
+  }
+  
+  .img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    max-width: 100%;
+    height: auto;
+  
+  }
+  
+  .image{
+  
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+  
+  }
