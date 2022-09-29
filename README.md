@@ -1,7 +1,7 @@
 # MotionDetector
 
-Take pictures once a motion has been detected and send it to Ubidots.
+Take pictures once a motion has been detected and visualize it in Ubidots.
 
-# Documentation
+## Documentation
 
-Read this article.
+For more information, you can read this article.
