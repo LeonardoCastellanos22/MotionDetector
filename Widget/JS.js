@@ -1,6 +1,6 @@
-var TOKEN = 'BBFF-MUDDPdoNZT2soyNN7ABMCFRLJO6JDH';//Put your Ubidots Token
-var DEVICE = "esp32real";//Your device label
-const VARIABLE = 'camaraIDS';//Your variable label
+var TOKEN = 'YOUR-TOKEN';//Put your Ubidots Token
+var DEVICE = "motiondetector";//Your device label
+const VARIABLE = 'picture';//Your variable label
 
 const HEADERS = {
     "X-Auth-Token": TOKEN,
